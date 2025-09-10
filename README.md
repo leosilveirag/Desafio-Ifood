@@ -42,7 +42,7 @@ Esta seção foi dedicada à visualização inicial dos dados, com as seguintes 
 * Visualização da forma atual dos dados.
 * Visualização das informações completa dos dados.
 
-#### 3. Análise Descritiva
+#### 3. Análise de Estrutura e Análise Descritiva
 
 Esta seção foi dedicada à análise estatística e à verificação da estrutura do conjunto de dados, respondendo a perguntas como:
 
