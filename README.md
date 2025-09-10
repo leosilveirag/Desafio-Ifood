@@ -42,17 +42,22 @@ Esta seção foi dedicada à visualização inicial dos dados, com as seguintes 
 * Visualização da forma atual dos dados.
 * Visualização das informações completa dos dados.
 
-#### 3. Análise de Estrutura e Análise Descritiva
+#### 3. Análise de Estrutura e Integridade
 
-Esta seção foi dedicada à análise estatística e à verificação da estrutura do conjunto de dados, respondendo a perguntas como:
+Esta seção foi dedicada a responder às primeiras perguntas do desafio, focando na estrutura e integridade do dataset:
 
 * Quantos dados temos? Linhas e colunas 
 * Quais são as colunas numéricas?
 * Temos duplicados na nossa base? Se tivermos, retire-os 
 * Temos dados nulos nessa base? Será que eles indicam algo? O que fazer com eles? 
-* Qual é a média, mediana, quartis, mínimo e máximo de cada uma?
 
-#### 4. Análise do Perfil do Cliente
+#### 4. Análise Descritiva
+
+Esta seção foi dedicada à análise estatística das colunas numéricas, com o cálculo de:
+
+* Qual é a média, mediana, quartis, mínimo e máximo de cada uma das colunas numéricas?
+
+#### 5. Análise do Perfil do Cliente
 
 Esta seção aprofundou o entendimento sobre as características dos clientes, respondendo a perguntas como:
 
