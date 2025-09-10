@@ -66,10 +66,10 @@ Esta seção aprofundou o entendimento sobre as características dos clientes, r
 * Qual é o nível de educação predominante?
 * Quantos clientes existem em cada estado civil?
 
-#### 5. Análise de Correlação
+#### 6. Análise de Correlação
 
-A etapa final consistiu em uma análise de correlação para identificar as relações entre as variáveis e obter insights sobre o comportamento de consumo. As correlações analisadas incluíram:
+A etapa final consistiu em uma análise de correlação para identificar as relações entre as variáveis e obter insights sobre o comportamento de consumo. As correlações analisadas incluíram as seguintes perguntas:
 
-* Relação entre **estado civil** e **número de filhos**.
-* O impacto do **número de filhos** nos gastos dos clientes.
-* Correlação entre **salário** e o **valor total gasto** na plataforma.
+* Qual é a relação de **estado civil** com número de **filhos**? Será que as pessoas **casadas** têm um maior número de **filhos**?
+* As pessoas **gastam** mais ou menos em nossa plataforma quando têm **filhos**?
+* Pessoas que têm um **maior salário** gastam mais?
