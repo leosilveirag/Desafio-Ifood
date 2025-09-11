@@ -1,9 +1,8 @@
 # Desafio-Ifood: Análise Exploratória de Dados (AED)
 
-Este projeto é um desafio prático do curso **Estatística do Básico ao Avançado (E.B.A.)** e tem como objetivo aprofundar os conhecimentos em **análise de dados** e **estatística descritiva**, utilizando a linguagem **Python**.
+Este projeto é um desafio prático do curso **Estatística do Básico ao Avançado (E.B.A.)**, realizado de forma independente como forma de aplicar e aprofundar os conhecimentos em **análise de dados** e **estatística descritiva**, utilizando a linguagem **Python** aprendidos até o momento do curso.
 
-O desafio consiste em analisar um conjunto de dados fictícios da empresa iFood para entender o perfil e o comportamento de consumo de seus clientes. Os dados incluem informações sobre perfis demográficos, preferências de produto, participação em campanhas e desempenho do canal de vendas.
-
+O desafio consiste em analisar um conjunto de dados fictícios da empresa iFood para entender o perfil e o comportamento de consumo de seus clientes. Os dados incluem informações sobre os clientes e a correlação das variáveis abordadas nas questões propostas.
 ---
 
 ### Estrutura de Dados
