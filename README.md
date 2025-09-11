@@ -1,7 +1,8 @@
 # Desafio-Ifood: Análise Exploratória de Dados (AED)
 
-Este projeto é um desafio prático do curso **Estatística do Básico ao Avançado (E.B.A.)**, realizado de forma independente como forma de aplicar e aprofundar os conhecimentos em **análise de dados** e **estatística descritiva**, utilizando a linguagem **Python** aprendidos até o momento do curso.
+Este projeto é um desafio prático do curso **Estatística do Básico ao Avançado (E.B.A.)**, realizado de forma independente como forma de aplicar e aprofundar os conhecimentos em **análise de dados** e **estatística descritiva**, utilizando a linguagem **Python** aprendidos até o momento do curso. 
 
+O desafio consiste em analisar um conjunto de dados fictícios, simulando um cenário do iFood, para entender o perfil e o comportamento de consumo dos clientes. Os dados incluem informações sobre os clientes e a correlação das variáveis abordadas nas questões propostas.
 
 ---
 
@@ -10,16 +11,12 @@ Este projeto é um desafio prático do curso **Estatística do Básico ao Avanç
 O conjunto de dados é composto por **2.240 linhas e 29 colunas**, com uma variedade de dados numéricos, categóricos e binários. As principais colunas do dataset incluem:
 
 * `ID`: Identificador único do cliente.
-* `Year_Birth`: Ano de nascimento.
 * `Education`: Nível de educação.
 * `Marital_Status`: Estado civil.
 * `Income`: Salário anual.
 * `Kidhome`: Número de crianças em casa.
 * `Teenhome`: Número de adolescentes em casa.
-* `Dt_Customer`: Data de inscrição na empresa.
-* `MntWines`, `MntFruits`, `MntMeatProducts`, `MntFishProducts`, `MntSweetProducts`, `MntGoldProds`: Valores gastos em diferentes categorias de produtos nos últimos 2 anos.
-* `NumWebPurchases`, `NumCatalogPurchases`, `NumStorePurchases`: Número de compras realizadas por canal de venda.
-* `AcceptedCmp1` a `AcceptedCmp5`: Aceitou ou não as campanhas de marketing.
+* `Expenses`: Gastos ou despesas dos clientes.
 
 ---
 
@@ -56,7 +53,7 @@ Esta seção foi dedicada à análise estatística das colunas numéricas, com o
 
 * Qual é a média, mediana, quartis, mínimo e máximo de cada uma das colunas numéricas?
 
-#### 5. Análise do Perfil do Cliente
+#### 5. Análise do Perfil de Clientes
 
 Esta seção aprofundou o entendimento sobre as características dos clientes, respondendo a perguntas como:
 
@@ -65,7 +62,7 @@ Esta seção aprofundou o entendimento sobre as características dos clientes, r
 * Qual é o nível de educação predominante?
 * Quantos clientes existem em cada estado civil?
 
-#### 6. Análise de Correlação
+#### 6. Análise de Correlação dos Dados
 
 A etapa final consistiu em uma análise de correlação para identificar as relações entre as variáveis e obter insights sobre o comportamento de consumo. As correlações analisadas incluíram as seguintes perguntas:
 
